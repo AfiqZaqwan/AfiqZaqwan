@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/AfiqZaqwan/self-introduction/refs/heads/main/WhatsApp%20Image%202025-03-23%20at%2001.31.33_969e8199.jpg" alt="Commercial Solar Installation" width="400">
 </p>
 
-## 📌 Position: Technician
+## 📌 Position: Project Engineer
 - Attend meetings with clients/main contractors
 - Prepare project schedule and assist solar engineer in drafting of PV layout using Sketchup and single line diagram (SLD) or mechanical drawings using AutoCAD
 - Conduct site surveys to establish location of panels, inverters, DC and AC components, wiring routes, etc
